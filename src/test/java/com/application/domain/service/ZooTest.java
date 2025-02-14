@@ -1,13 +1,14 @@
 package com.application.domain.service;
 
-import com.application.application.domain.animals.*;
-import com.application.application.domain.things.*;
-import com.application.application.domain.service.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
+
+import com.application.domain.animals.*;
+import com.application.domain.service.*;
+import com.application.domain.things.*;
 
 import java.util.List;
 
