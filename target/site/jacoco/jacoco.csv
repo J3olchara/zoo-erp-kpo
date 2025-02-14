@@ -1,0 +1,14 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+zoo-erp,com.application.application.domain.service,VetClinic,5,0,0,0,2,0,2,0,2,0
+zoo-erp,com.application.application.domain.service,Zoo,0,109,0,6,0,17,0,14,0,11
+zoo-erp,com.application.application,ZooApplication,71,0,0,0,13,0,4,0,4,0
+zoo-erp,com.application.application.domain.things,Computer,0,4,0,0,0,2,0,1,0,1
+zoo-erp,com.application.application.domain.things,Table,0,4,0,0,0,2,0,1,0,1
+zoo-erp,com.application.application.domain.things,Thing,0,9,0,0,0,4,0,2,0,2
+zoo-erp,com.application.application.domain.animals,Tiger,0,5,0,0,0,2,0,1,0,1
+zoo-erp,com.application.application.domain.animals,Predator,0,5,0,0,0,2,0,1,0,1
+zoo-erp,com.application.application.domain.animals,Animal,0,15,0,0,0,6,0,3,0,3
+zoo-erp,com.application.application.domain.animals,Herbo,0,11,0,0,0,4,0,2,0,2
+zoo-erp,com.application.application.domain.animals,Wolf,5,0,0,0,2,0,1,0,1,0
+zoo-erp,com.application.application.domain.animals,Monkey,0,6,0,0,0,2,0,1,0,1
+zoo-erp,com.application.application.domain.animals,Rabbit,0,6,0,0,0,2,0,1,0,1
